@@ -3,6 +3,6 @@ protocol buffers是一种灵活，高效，自动化的结构化数据序列化�
 
 
 -----------------------------------------------------------
-PBDemo 和 PBDemo3 为demo 工程
-prototest 文件为 ***.proto 所在的文件夹
+PBDemo 和 PBDemo3 为demo 工程    
+prototest 文件为 ***.proto 所在的文件夹   
 protobuf-objectivec-3.3.0.tar.gz  为所下载的ptoto Buffer目前最新的支持object-c的库文件，若以后更新、请替换。

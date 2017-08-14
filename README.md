@@ -7,12 +7,11 @@ PBDemo 和 PBDemo3 为demo 工程
 prototest 文件为 ***.proto 所在的文件夹   
 protobuf-objectivec-3.3.0.tar.gz  为所下载的ptoto Buffer目前最新的支持object-c的库文件，若更新、请替换。
 
-本人忘记点补充，与上无关、请忽略
-1、在md文件中换行 使用 两个以上空格+回车
+本人忘记点补充，与上无关、请忽略   
+1、在md文件中换行 使用 两个以上空格+回车   
 
-2、git 较为常用的命令（部分）  
+2、git 较为常用的命令（部分）   
  ~ cd 进入目录     
-
  ~ 把当前目录作为git可以管理的repo : git init    
  ~ 添加文件： ① 单个文件 : git add README.md   
              ② 全部文件 : git add -A   

@@ -10,9 +10,10 @@ protobuf-objectivec-3.3.0.tar.gz  为所下载的ptoto Buffer目前最新的支�
 本人忘记点补充，与上无关、请忽略
 1、在md文件中换行 使用 两个以上空格+回车
 
-2、git 较为常用的命令（部分）   
- ~ cd 进入目录   
- ~ 把当前目录作为git可以管理的repo : git init    
+2、git 较为常用的命令（部分）  
+ ~ cd 进入目录     
+
+ ~ 把当前目录作为git可以管理的repo : git init    
  ~ 添加文件： ① 单个文件 : git add README.md   
              ② 全部文件 : git add -A   
  ~ 提交暂存文件至本地repo : git commit -m "备注是谁背锅的关键，务必添加"   

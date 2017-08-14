@@ -1,0 +1,4 @@
+platform :ios,'8.0'
+target 'PBDemo' do 
+	pod 'Protobuf','~>3.3.0'
+end
